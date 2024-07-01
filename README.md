@@ -9,12 +9,5 @@
 
 ## 主要修改
 
-大小号功能，设置方法：
-
-![title](https://github.com/buddingworld/XQuickEnergy/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240222183527.jpg?raw=true)
-
-
-其他修改以方便多号管理为主要方向的修改。
-
-遇到问题欢迎反馈。
+移除弹窗，默认遵纪守法。
 
